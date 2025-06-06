@@ -1,1 +1,1 @@
-# client template
+# pesalens-client-template
